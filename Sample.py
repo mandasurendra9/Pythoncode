@@ -1,4 +1,4 @@
-n =4
+n = 18
 
 if n %2 == 0:
     print("Even")
